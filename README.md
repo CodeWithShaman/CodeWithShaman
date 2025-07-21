@@ -1,4 +1,4 @@
-# 💫 SHAMAN ALI:
+# Hi 👋, I'm SHAMAN ALI
 👋 Hi, I’m @CodeWithShaman<br>👀 I’m interested in Coding<br>🌱 I’m currently Working On TypeScript<br>💞️ I’m looking to collaborate on <br>📫 How to reach me  <br>📧Email: [shamanaliteevino@gmail.com]<br>💬 LinkedIn: Code Aur Shaman<br>😄 Pronouns: I build amazing stuff with code and love collaborating on open-source projects!<br>⚡ Fun fact: Code magician by day, coffee enthusiast by night
 
 
